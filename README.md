@@ -10,7 +10,6 @@ Hi, I'm Tobias Moscatelli!
 🎓 I teach programming and game development at the National University of Quilmes.
 🛠️ Passionate about clean UI, scalable architecture, and user-centered design.
 🌍 Looking for remote opportunities in LATAM, US or Europe.
-🔭 Currently working on Android apps and educational projects.
 🌟 Main tools: React Native, Kotlin, Supabase, TypeScript
 🚀 I'm open to new junior developer roles – let’s build meaningful tech together!
 </pre>
