@@ -62,3 +62,7 @@ Hi, I'm Tobias Moscatelli!
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=plastic&logo=github&logoColor=white">
     <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white">
 </p>
+
+<p align="center">
+  <img src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" alt="kitty waving" width="100"/>
+</p>
